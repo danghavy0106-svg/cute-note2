@@ -1,0 +1,6 @@
+{
+  "name": "Miffy Personal Diary",
+  "description": "A soft pastel pink personal journal with custom vibe check-ins, self-understanding emotion bars, dress-up Miffy wardrobe shop with carrot earnings, and sticker decorations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
